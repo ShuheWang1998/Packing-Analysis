@@ -1,0 +1,28 @@
+# model
+model_name_or_path: /ML-A100/public/model/Meta-Llama-3-70B-Instruct
+
+# method
+stage: sft
+do_predict: true
+finetuning_type: full
+
+# dataset
+dataset: hermes_00
+template: llama3
+cutoff_len: 2048
+max_samples: 50
+overwrite_cache: true
+preprocessing_num_workers: 16
+
+# output
+output_dir: saves/data_distribution/hermes_0
+overwrite_output_dir: true
+
+# eval
+per_device_eval_batch_size: 1
+predict_with_generate: true
+
+
+do_sample: False
+temperature: 0
+max_new_tokens: 512

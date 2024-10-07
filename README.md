@@ -56,10 +56,10 @@ pip install -e ".[torch,metrics]"
 In this part, we offer links to download our training data.
 
 #### 1. Download Training Data
-* [WildChat (GPT-4)](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset)
-* [TULU](https://www.kaggle.com/datasets/quora/question-pairs-dataset)
-* [WildChat](https://www.kaggle.com/datasets/quora/question-pairs-dataset)
-* [Open-source 1M](https://www.kaggle.com/datasets/quora/question-pairs-dataset)
+* [WildChat (GPT-4)](https://huggingface.co/datasets/Super-shuhe/packing-wildchat-gpt-4)
+* [TULU](https://huggingface.co/datasets/Super-shuhe/packing-tulu)
+* [WildChat](https://huggingface.co/datasets/Super-shuhe/packing-wildchat)
+* [Open-source 1M](https://huggingface.co/datasets/Super-shuhe/open-source-1M)
 
 **Please cite the original data when using it.**
 

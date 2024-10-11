@@ -5,7 +5,7 @@ This repo is for our paper: [Packing Analysis: Packing Is More Appropriate for L
 ## Upate
 
 * October 6, 2023 we released our scripts, checkpoints and data.
-* October 6, 2024 we released our paper in [arxiv]().
+* October 6, 2024 we released our paper in [arxiv](https://arxiv.org/abs/2410.08081).
 ****
 
 ## Links

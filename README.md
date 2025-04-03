@@ -1,11 +1,7 @@
 # Packing Analysis: Packing Is More Appropriate for Large Models or Datasets in Supervised Fine-tuning
 
-This repo is for our paper: [Packing Analysis: Packing Is More Appropriate for Large Models or Datasets in Supervised Fine-tuning](). 
+This repo is for our paper: Packing Analysis: Packing Is More Appropriate for Large Models or Datasets in Supervised Fine-tuning. 
 
-## Upate
-
-* October 6, 2023 we released our scripts, checkpoints and data.
-* October 6, 2024 we released our paper in [arxiv](https://arxiv.org/abs/2410.08081).
 ****
 
 ## Links
@@ -688,7 +684,3 @@ method, while red represents a decrease in performance compared to the padding m
     </tr>
     
 </table>
-
-
-## Contact
-If you have any issues or questions about this repo, feel free to contact shuhewang@student.unimelb.edu.au

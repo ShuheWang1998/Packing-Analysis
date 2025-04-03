@@ -1,11 +1,7 @@
 # Packing Analysis: Packing Is More Appropriate for Large Models or Datasets in Supervised Fine-tuning
 
-This repo is for our paper: [Packing Analysis: Packing Is More Appropriate for Large Models or Datasets in Supervised Fine-tuning](). 
+This repo is for our paper: Packing Analysis: Packing Is More Appropriate for Large Models or Datasets in Supervised Fine-tuning. 
 
-## Upate
-
-* October 6, 2023 we released our scripts, checkpoints and data.
-* October 6, 2024 we released our paper in [arxiv](https://arxiv.org/abs/2410.08081).
 ****
 
 ## Links
@@ -56,11 +52,11 @@ pip install -e ".[torch,metrics]"
 In this part, we offer links to download our training data.
 
 #### 1. Download Training Data
-* [WildChat (GPT-4)](https://huggingface.co/datasets/Super-shuhe/packing-wildchat-gpt-4)
-* [TULU](https://huggingface.co/datasets/Super-shuhe/packing-tulu)
-* [WildChat](https://huggingface.co/datasets/Super-shuhe/packing-wildchat)
-* [Open-source 1M](https://huggingface.co/datasets/Super-shuhe/open-source-1M)
-
+* [WildChat (GPT-4)]
+* [TULU]
+* [WildChat]
+* [Open-source 1M]
+  
 **Please cite the original data when using it.**
 
 #### 2. Data Preparation
@@ -688,7 +684,3 @@ method, while red represents a decrease in performance compared to the padding m
     </tr>
     
 </table>
-
-
-## Contact
-If you have any issues or questions about this repo, feel free to contact shuhewang@student.unimelb.edu.au
